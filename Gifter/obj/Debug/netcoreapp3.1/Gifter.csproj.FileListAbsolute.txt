@@ -149,3 +149,5 @@ C:\Users\tdavi\source\repos\Gifter\Gifter\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Users\tdavi\source\repos\Gifter\Gifter\obj\Debug\netcoreapp3.1\Gifter.dll
 C:\Users\tdavi\source\repos\Gifter\Gifter\obj\Debug\netcoreapp3.1\Gifter.pdb
 C:\Users\tdavi\source\repos\Gifter\Gifter\obj\Debug\netcoreapp3.1\Gifter.genruntimeconfig.cache
+C:\Users\tdavi\source\repos\Gifter\Gifter\bin\Debug\netcoreapp3.1\client\package.json
+C:\Users\tdavi\source\repos\Gifter\Gifter\bin\Debug\netcoreapp3.1\client\public\manifest.json
